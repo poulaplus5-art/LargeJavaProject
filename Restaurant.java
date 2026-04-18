@@ -56,4 +56,7 @@ public class Restaurant implements Describable {
     public String toString() {
         return "[Restaurant] " + name + " (" + cuisine + ")";
     }
+    
+    public void NewMethod7() {
+}
 }
